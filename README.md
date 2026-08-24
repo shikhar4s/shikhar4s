@@ -77,8 +77,13 @@ I am a B.Tech student specializing in **Artificial Intelligence & Machine Learni
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shikhar4s&show_icons=true&theme=tokyonight&hide_border=true" alt="Shikhar's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shikhar4s&layout=compact&theme=tokyonight&hide_border=true" alt="Shikhar's most-used languages" height="165" />
+  <a href="https://github.com/shikhar4s?tab=followers"><img src="https://img.shields.io/github/followers/shikhar4s?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" /></a>
+  <a href="https://github.com/shikhar4s?tab=repositories"><img src="https://img.shields.io/github/stars/shikhar4s?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=F4C430" alt="GitHub stars" /></a>
+  <a href="https://github.com/shikhar4s/Paper_IQ"><img src="https://img.shields.io/github/last-commit/shikhar4s/Paper_IQ?style=for-the-badge&logo=git&label=Latest%20project%20update&color=2EA44F" alt="Latest PaperIQ project update" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shikhar4s?tab=repositories">Explore my repositories and recent work →</a>
 </p>
 
 <p align="center"><i>Turning AI ideas into useful, user-facing software.</i></p>
