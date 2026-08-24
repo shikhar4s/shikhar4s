@@ -74,16 +74,4 @@ I am a B.Tech student specializing in **Artificial Intelligence & Machine Learni
 | **Databases** | MongoDB, SQL, Microsoft SQL Server |
 | **Tools** | Docker, Git, GitHub, VS Code |
 
-## GitHub activity
-
-<p align="center">
-  <a href="https://github.com/shikhar4s?tab=followers"><img src="https://img.shields.io/github/followers/shikhar4s?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" /></a>
-  <a href="https://github.com/shikhar4s?tab=repositories"><img src="https://img.shields.io/github/stars/shikhar4s?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=F4C430" alt="GitHub stars" /></a>
-  <a href="https://github.com/shikhar4s/Paper_IQ"><img src="https://img.shields.io/github/last-commit/shikhar4s/Paper_IQ?style=for-the-badge&logo=git&label=Latest%20project%20update&color=2EA44F" alt="Latest PaperIQ project update" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shikhar4s?tab=repositories">Explore my repositories and recent work →</a>
-</p>
-
 <p align="center"><i>Turning AI ideas into useful, user-facing software.</i></p>
