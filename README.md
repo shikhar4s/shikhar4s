@@ -12,6 +12,8 @@
 
 ## About me
 
+<img align="right" alt="Coding animation" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 I am a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at MITS, Gwalior. I enjoy taking ideas from model development to usable web applications—building ML pipelines, Django REST APIs, responsive React interfaces, and Docker-based deployments.
 
 - 🔭 Interested in **AI/ML engineering, full-stack development, and software engineering internships**
@@ -19,6 +21,8 @@ I am a B.Tech student specializing in **Artificial Intelligence & Machine Learni
 - 🛠️ Comfortable building across the stack with **Python, React, Django, MongoDB, SQL, and Docker**
 - 🏆 **Flipkart GRiD 6.0 Semi-finalist** and **AIR 125 in NCAT 2026**
 - 💻 Solved **350+ data structures and algorithms problems** on LeetCode
+
+<br clear="right"/>
 
 ## Featured projects
 
