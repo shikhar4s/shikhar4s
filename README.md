@@ -26,7 +26,7 @@ I am a B.Tech student specializing in **Artificial Intelligence & Machine Learni
 
 ## Featured projects
 
-### [PaperIQ](https://github.com/shikhar4s/Paper_IQ) — NLP Document Intelligence Platform
+### [PaperIQ](https://github.com/shikhar4s/paperiq) — NLP Document Intelligence Platform
 
 - Built a web application that summarizes PDF and DOCX documents and extracts important keywords.
 - Developed **10+ Django REST APIs** to connect document-processing workflows with the React interface.
