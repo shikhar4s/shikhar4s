@@ -20,7 +20,7 @@ I am a B.Tech student specializing in **Artificial Intelligence & Machine Learni
 - 🧠 Experience with **NLP, computer vision, predictive analytics, and data visualization**
 - 🛠️ Comfortable building across the stack with **Python, React, Django, MongoDB, SQL, and Docker**
 - 🏆 **Flipkart GRiD 6.0 Semi-finalist** and **AIR 125 in NCAT 2026**
-- 💻 Solved **350+ data structures and algorithms problems** on LeetCode
+- 💻 Solved **550+ data structures and algorithms problems** on LeetCode
 
 <br clear="right"/>
 
