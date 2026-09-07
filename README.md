@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shikhar Shrivastava
-
-### 🤖 AI/ML Engineer · 💻 Full-Stack Developer · 🧩 Problem Solver
-
-**Building intelligent systems that go from `idea → model → API → product → deployment`.**
+<img src="./assets/profile-cover.svg" width="100%" alt="Shikhar Shrivastava — AI/ML & Full Stack Developer cover" />
 
 <br/>
 
@@ -35,9 +31,6 @@ Instead of stopping at model training, I like working across the entire product 
 - 🚀 Interested in **AI/ML, Full-Stack & Software Engineering** opportunities
 - 🎯 Passionate about turning ML research into **real-world, user-facing products**
 
-</td>
-<td width="40%" valign="top">
-
 ### 🏆 Achievements
 
 🥇 **Flipkart GRiD 6.0** — Semi-finalist  
@@ -48,6 +41,15 @@ Instead of stopping at model training, I like working across the entire product 
 📜 **Certified C Programmer** — Numeric Infosystem Pvt. Ltd.
 
 </td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="95%" alt="Coding animation" />
+
+<br/>
+
+> **Build → Measure → Improve → Ship 🚀**
+
+</td>
 </tr>
 </table>
 
@@ -55,27 +57,53 @@ Instead of stopping at model training, I like working across the entire product 
 
 ## 🧰 `02.` Technical Arsenal
 
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Languages" />
-
-### 🤖 AI · ML · Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI ML stack" />
-
-### ⚙️ Full-Stack · Database · DevOps
-<img src="https://skillicons.dev/icons?i=react,django,mongodb,mysql,docker,git,github,vscode&theme=dark" alt="Full stack and tools" />
-
-</div>
-
-<br/>
+### 💻 Programming Languages
 
 <table>
 <tr>
-<td align="center"><b>🧠 AI / ML</b><br/>TensorFlow · PyTorch<br/>scikit-learn · OpenCV<br/>NLP · LangChain</td>
-<td align="center"><b>📊 Data</b><br/>Pandas · NumPy<br/>Matplotlib<br/>Data Analytics</td>
-<td align="center"><b>🎨 Frontend</b><br/>React.js · Redux Toolkit<br/>JavaScript<br/>HTML · CSS</td>
-<td align="center"><b>⚙️ Backend & Tools</b><br/>Django · REST APIs<br/>MongoDB · SQL<br/>Docker · Git · GitHub</td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/><b>Python</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/><b>C++</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/><b>JavaScript</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/><b>HTML</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/><b>CSS</b></td>
+</tr>
+</table>
+
+### 🤖 AI · ML · Data
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/><b>TensorFlow</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/><b>PyTorch</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48"/><br/><b>Scikit-learn</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48"/><br/><b>OpenCV</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="44"/><br/><b>LangChain</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="44"/><br/><b>Pandas</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/numpy/FFFFFF" width="44"/><br/><b>NumPy</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/python/FFFFFF" width="44"/><br/><b>NLP</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/chartdotjs/FFFFFF" width="44"/><br/><b>Data Analytics</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/plotly/FFFFFF" width="44"/><br/><b>Visualization</b></td>
+</tr>
+</table>
+
+### ⚙️ Full-Stack · Database · Dev Tools
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/><b>React.js</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/redux/764ABC" width="44"/><br/><b>Redux Toolkit</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48"/><br/><b>Django</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/django/FFFFFF" width="44"/><br/><b>REST APIs</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/><b>MongoDB</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><b>SQL</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><b>Docker</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><b>Git</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><b>GitHub</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><b>VS Code</b></td>
 </tr>
 </table>
 
