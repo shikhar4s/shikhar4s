@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shikhar4s/shikhar4s/main/assets/profile-cover.svg" width="100%" alt="Shikhar Shrivastava — AI/ML & Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08111F,35:111827,70:4F46E5,100:7C3AED&text=SHIKHAR%20SHRIVASTAVA&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Shikhar Shrivastava — AI/ML & Full Stack Developer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=Turning+ML+ideas+into+real-world+products;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+Full+Stack;Build+%E2%80%A2+Learn+%E2%80%A2+Ship+%E2%80%A2+Repeat" alt="Typing SVG" />
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,django,tensorflow,pytorch,mongodb,docker,git&theme=dark" alt="Core stack" />
+
+<br/><br/>
 
 [![About](https://img.shields.io/badge/👤_ABOUT-4F46E5?style=for-the-badge)](#-about-me)
 [![Skills](https://img.shields.io/badge/⚡_SKILLS-7C3AED?style=for-the-badge)](#-technical-arsenal)
