@@ -1,0 +1,52 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.5" stop-color="#0B1325"/>
+      <stop offset="1" stop-color="#15102E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="190" y1="45" x2="770" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="28" fill="url(#bg)"/>
+  <circle cx="1010" cy="65" r="120" fill="#4F46E5" fill-opacity="0.16" filter="url(#glow)"/>
+  <circle cx="1090" cy="255" r="120" fill="#EC4899" fill-opacity="0.10" filter="url(#glow)"/>
+  <circle cx="180" cy="310" r="130" fill="#0EA5E9" fill-opacity="0.10" filter="url(#glow)"/>
+
+  <rect x="38" y="35" width="72" height="72" rx="18" fill="#0F1B31" stroke="#334155"/>
+  <text x="74" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#E2E8F0">S</text>
+
+  <text x="145" y="92" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" fill="#F8FAFC">SHIKHAR</text>
+  <text x="355" y="92" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" fill="url(#accent)">SHRIVASTAVA</text>
+  <text x="147" y="132" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" fill="#CBD5E1">AI/ML Engineer  •  Full-Stack Developer  •  Problem Solver</text>
+  <text x="147" y="170" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#94A3B8">Turning intelligent ideas into reliable, real-world products.</text>
+
+  <rect x="147" y="205" width="138" height="38" rx="19" fill="#101B31" stroke="#274060"/>
+  <text x="216" y="229" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#BFDBFE">AI / ML</text>
+  <rect x="297" y="205" width="150" height="38" rx="19" fill="#101B31" stroke="#3B2A68"/>
+  <text x="372" y="229" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#DDD6FE">FULL STACK</text>
+  <rect x="459" y="205" width="146" height="38" rx="19" fill="#101B31" stroke="#423256"/>
+  <text x="532" y="229" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#F5D0FE">BUILD & SHIP</text>
+
+  <g transform="translate(820 74)">
+    <rect width="315" height="190" rx="20" fill="#09111E" stroke="#22324A"/>
+    <circle cx="24" cy="22" r="5" fill="#EF4444"/>
+    <circle cx="42" cy="22" r="5" fill="#F59E0B"/>
+    <circle cx="60" cy="22" r="5" fill="#22C55E"/>
+    <text x="24" y="65" font-family="monospace" font-size="16" fill="#64748B">$ whoami</text>
+    <text x="24" y="93" font-family="monospace" font-size="16" fill="#60A5FA">shikhar4s</text>
+    <text x="24" y="126" font-family="monospace" font-size="16" fill="#64748B">$ focus</text>
+    <text x="24" y="154" font-family="monospace" font-size="16" fill="#A78BFA">ML + APIs + Products</text>
+    <rect x="24" y="171" width="9" height="3" fill="#E2E8F0"/>
+  </g>
+
+  <path d="M40 286H1160" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <text x="44" y="313" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#64748B">Build • Learn • Solve • Improve • Repeat</text>
+</svg>
