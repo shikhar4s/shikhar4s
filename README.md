@@ -31,8 +31,9 @@ Results-driven **AI/ML Engineer and Full Stack Developer** with hands-on experie
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/↗_VISIT_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/✉_CONTACT_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
+[![View Resume](https://img.shields.io/badge/VIEW_RESUME-7C3AED?style=for-the-badge&logo=readme&logoColor=white)](./RESUME.md)
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/CONTACT_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
 
 </td><td width="42%" valign="top">
 
@@ -81,7 +82,7 @@ while (curiosity) {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </td><td width="33%" valign="top" align="center">
 
@@ -103,51 +104,57 @@ while (curiosity) {
 
 ![Projects](https://img.shields.io/badge/FEATURED_WORK-DB2777?style=flat-square&logo=github&logoColor=white)
 
-<table><tr><td width="25%" valign="top">
+<table><tr><td width="50%" valign="top">
 
 ### 📄 PaperIQ
-**NLP Document Intelligence**
+**NLP-Powered Document Intelligence Platform**
 
-PDF/DOCX summarization and keyword extraction platform.
+Built and deployed an end-to-end document intelligence system that turns lengthy **PDF/DOCX files** into concise summaries and extracted keywords, reducing manual review time by **60%**.
 
-`React` `Django` `MongoDB` `Docker` `NLP`
+Engineered the backend around Django REST APIs and containerized the complete application with Docker for consistent development and deployment environments. The platform includes **8+ REST API endpoints** connecting its document-processing workflow with the React interface.
 
-**60%** less manual review time · **8+ APIs**
+`React.js` `Django` `MongoDB` `Docker` `NLP`
 
 [![Repository](https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/paperiq)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://paperiq.vercel.app)
+[![Live Demo](https://img.shields.io/badge/VIEW_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://paperiq.vercel.app)
 
-</td><td width="25%" valign="top">
+</td><td width="50%" valign="top">
 
 ### 🌿 Plant Disease Detector
-**Computer Vision Pipeline**
+**Computer Vision + Multilingual Assistance**
 
-Classifies **10+ plant diseases** with **92%+ validation accuracy** and multilingual chatbot support for **3+ languages**.
+Developed a computer-vision pipeline using **OpenCV and TensorFlow** to analyze leaf images and classify **10+ plant diseases**, achieving **92%+ validation accuracy**.
 
-`React` `Django` `OpenCV` `TensorFlow` `Docker`
+Extended the classifier into an accessible web application with a responsive React interface and a multilingual chatbot supporting **3+ languages**, helping regional users interact with disease-detection results more easily.
+
+`React.js` `Django` `OpenCV` `TensorFlow` `Docker`
 
 [![Repository](https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/plant_disease_detector)
 
-</td><td width="25%" valign="top">
+</td></tr><tr><td width="50%" valign="top">
 
 ### 🧠 Student Compass
-**AI Wellness Platform**
+**AI-Powered Wellness Platform**
 
-Mood tracking, journaling, habit visualization, AI assistance, personalized recommendations, and real-time analytics.
+Built a unified wellness platform around three core modules: **mood tracking, private journaling, and habit visualization**, making day-to-day wellness monitoring easier to manage from one interface.
 
-`React` `Django` `AI/ML` `Docker`
+Added an **AI chatbot, personalized recommendation engine, and real-time analytics dashboards** to provide actionable insights and improve the user experience, contributing to a reported **40% increase in engagement**.
+
+`React.js` `Django` `AI/ML` `Docker`
 
 [![Repository](https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/student_compass)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://student-compass-kohl.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/VIEW_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://student-compass-kohl.vercel.app/)
 
-</td><td width="25%" valign="top">
+</td><td width="50%" valign="top">
 
 ### ✈️ Wanderlust
-**Travel Recommendation Engine**
+**ML-Based Travel Recommendation Engine**
 
-K-Means segmentation across **5 user groups** for personalized itinerary recommendations.
+Architected a travel recommendation engine using **K-Means customer segmentation** to group users into **5 distinct profiles** and generate more relevant itinerary recommendations for each segment.
 
-`Django` `React` `Redux` `Machine Learning`
+Optimized Redux Toolkit state handling and streamlined Django ORM queries, improving frontend load speed by **30%** while supporting more efficient backend request handling.
+
+`Django` `React.js` `Redux Toolkit` `K-Means` `Machine Learning`
 
 </td></tr></table>
 
@@ -209,7 +216,7 @@ Arrays · Trees · Graphs · Dynamic Programming
 
 🎓 **Principles of Generative AI & AI Primer** — Infosys Springboard
 
-📜 **C Programming Skill Assessment** — PS Softech Education Services
+📜 **Certified C Programmer** — Numeric Infosystem Pvt. Ltd.
 
 </td><td width="45%" valign="top">
 
@@ -238,6 +245,7 @@ BRIGHTER TOMORROW
 
 ### ❤️ Thanks for visiting! Let's build something amazing together.
 
+[![View Resume](https://img.shields.io/badge/VIEW_RESUME-7C3AED?style=for-the-badge&logo=readme&logoColor=white)](./RESUME.md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s)
