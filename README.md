@@ -27,11 +27,10 @@
 
 <table><tr><td width="58%" valign="top">
 
-Results-driven **AI/ML Engineer and Full Stack Developer** with hands-on experience in **NLP, computer vision and data analytics**. I enjoy building real-world applications that solve meaningful problems — from intelligent document processing to AI-powered web platforms.
+Results-driven **AI/ML Engineer and Full Stack Developer** with hands-on experience shipping applications across **NLP, computer vision, and data analytics**. I enjoy turning machine-learning ideas into practical, user-facing products with scalable APIs and modern web interfaces.
 
 <br/>
 
-[![Resume](https://img.shields.io/badge/⬇_VIEW_RESUME-6366F1?style=for-the-badge)](#)
 [![Portfolio](https://img.shields.io/badge/↗_VISIT_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/✉_CONTACT_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
 
@@ -80,13 +79,15 @@ while (curiosity) {
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainchain&logoColor=white)
 
 </td><td width="33%" valign="top" align="center">
 
 ### 🗄️ Databases & Tools
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -121,7 +122,7 @@ PDF/DOCX summarization and keyword extraction platform.
 ### 🌿 Plant Disease Detector
 **Computer Vision Pipeline**
 
-Classifies **10+ plant diseases** with **92%+ validation accuracy** and multilingual chatbot support.
+Classifies **10+ plant diseases** with **92%+ validation accuracy** and multilingual chatbot support for **3+ languages**.
 
 `React` `Django` `OpenCV` `TensorFlow` `Docker`
 
@@ -132,7 +133,7 @@ Classifies **10+ plant diseases** with **92%+ validation accuracy** and multilin
 ### 🧠 Student Compass
 **AI Wellness Platform**
 
-Mood tracking, journaling, habit visualization and an AI-powered assistant.
+Mood tracking, journaling, habit visualization, AI assistance, personalized recommendations, and real-time analytics.
 
 `React` `Django` `AI/ML` `Docker`
 
@@ -199,7 +200,7 @@ CBSE Secondary · **8.3/10**
 ## 🏆 Achievements & Certifications
 
 🏅 **Flipkart GRiD 6.0 Hackathon Semi-finalist**  
-Advanced through a pool of **5,17,000+ participants**.
+Advanced through a pool of **5,17,000+ registered participants** nationwide.
 
 🌏 **All India Rank 125 — NCAT 2026**
 
@@ -208,7 +209,7 @@ Arrays · Trees · Graphs · Dynamic Programming
 
 🎓 **Principles of Generative AI & AI Primer** — Infosys Springboard
 
-📜 **Certified C Programmer** — Numeric Infosystem Pvt. Ltd.
+📜 **C Programming Skill Assessment** — PS Softech Education Services
 
 </td><td width="45%" valign="top">
 
