@@ -4,18 +4,20 @@
 
 <br/>
 
-[![About](https://img.shields.io/badge/👤_About-111827?style=for-the-badge)](#-about-me)
-[![Skills](https://img.shields.io/badge/⚙️_Skills-111827?style=for-the-badge)](#-technical-arsenal)
-[![Projects](https://img.shields.io/badge/▣_Projects-111827?style=for-the-badge)](#-featured-projects)
-[![Experience](https://img.shields.io/badge/💼_Experience-111827?style=for-the-badge)](#-experience)
-[![Education](https://img.shields.io/badge/🎓_Education-111827?style=for-the-badge)](#-education)
-[![Achievements](https://img.shields.io/badge/🏆_Achievements-111827?style=for-the-badge)](#-achievements--certifications)
+[![About](https://img.shields.io/badge/👤_ABOUT-4F46E5?style=for-the-badge)](#-about-me)
+[![Skills](https://img.shields.io/badge/⚡_SKILLS-7C3AED?style=for-the-badge)](#-technical-arsenal)
+[![Projects](https://img.shields.io/badge/🚀_PROJECTS-DB2777?style=for-the-badge)](#-featured-projects)
+[![Experience](https://img.shields.io/badge/💼_EXPERIENCE-2563EB?style=for-the-badge)](#-experience)
+[![Education](https://img.shields.io/badge/🎓_EDUCATION-0891B2?style=for-the-badge)](#-education)
+[![Achievements](https://img.shields.io/badge/🏆_ACHIEVEMENTS-D97706?style=for-the-badge)](#-achievements--certifications)
 
 </div>
 
 ---
 
 ## 👋 About Me
+
+![About](https://img.shields.io/badge/AI%2FML_ENGINEER_%C3%97_FULL_STACK_DEVELOPER-4F46E5?style=flat-square)
 
 <table>
 <tr>
@@ -25,9 +27,9 @@ Results-driven **AI/ML Engineer and Full Stack Developer** with hands-on experie
 
 <br/>
 
-[![Resume](https://img.shields.io/badge/⬇_View_Resume-6366F1?style=for-the-badge)](#)
-[![Portfolio](https://img.shields.io/badge/↗_Visit_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/✉_Contact_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
+[![Resume](https://img.shields.io/badge/⬇_VIEW_RESUME-6366F1?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/↗_VISIT_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/✉_CONTACT_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
 
 </td>
 <td width="42%" valign="top">
@@ -56,45 +58,58 @@ while (curiosity) {
 
 ## ⚡ Technical Arsenal
 
+![Skills](https://img.shields.io/badge/TECH_STACK-7C3AED?style=flat-square&logo=codefactor&logoColor=white)
+
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
-### Programming Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="42"/><br/><b>Python</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="42"/><br/><b>C++</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="42"/><br/><b>JavaScript</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="42"/> <img src="https://skillicons.dev/icons?i=css&theme=dark" width="42"/><br/><b>HTML · CSS</b>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-CB9F00?style=for-the-badge&logo=javascript&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </td>
 <td width="34%" valign="top" align="center">
 
-### Frameworks & Libraries
+### 🧠 Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="42"/> <img src="https://cdn.simpleicons.org/redux/764ABC" width="40"/> <img src="https://skillicons.dev/icons?i=django&theme=dark" width="42"/><br/>
-<b>React.js · Redux Toolkit · Django</b><br/><br/>
+![React](https://img.shields.io/badge/React.js-087EA4?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="42"/> <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="42"/> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="42"/><br/>
-<b>TensorFlow · PyTorch · Scikit-learn</b><br/><br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="40"/> <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="40"/> <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="42"/><br/>
-<b>Pandas · NumPy · OpenCV</b><br/><br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="40"/><br/><b>LangChain</b>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### Databases & Tools
+### 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="42"/> <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="42"/><br/><b>SQL · MongoDB</b><br/><br/>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42"/> <img src="https://skillicons.dev/icons?i=git&theme=dark" width="42"/><br/><b>Docker · Git</b><br/><br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="42"/> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="42"/><br/><b>GitHub · VS Code</b><br/><br/>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-⚙️ **REST APIs**
+![REST APIs](https://img.shields.io/badge/REST_APIs-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -103,6 +118,8 @@ while (curiosity) {
 ---
 
 ## 🚀 Featured Projects
+
+![Projects](https://img.shields.io/badge/FEATURED_WORK-DB2777?style=flat-square&logo=github&logoColor=white)
 
 <table>
 <tr>
@@ -113,11 +130,15 @@ while (curiosity) {
 
 PDF/DOCX summarization and keyword extraction platform.
 
-`React` `Django` `MongoDB` `Docker` `NLP`
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
 
 **60%** less manual review time · **8+ APIs**
 
-[View Project →](https://github.com/shikhar4s/paperiq)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/paperiq)
 
 </td>
 <td width="25%" valign="top">
@@ -127,9 +148,13 @@ PDF/DOCX summarization and keyword extraction platform.
 
 Classifies **10+ plant diseases** with **92%+ validation accuracy** and multilingual chatbot support.
 
-`React` `Django` `OpenCV` `TensorFlow` `Docker`
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[View Project →](https://github.com/shikhar4s/plant_disease_detector)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/plant_disease_detector)
 
 </td>
 <td width="25%" valign="top">
@@ -139,9 +164,12 @@ Classifies **10+ plant diseases** with **92%+ validation accuracy** and multilin
 
 Mood tracking, journaling, habit visualization and an AI-powered assistant.
 
-`React` `Django` `AI/ML` `Docker`
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=white)
+![AI](https://img.shields.io/badge/AI%2FML-DB2777?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[View Project →](https://github.com/shikhar4s/student_compass)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-DB2777?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/student_compass)
 
 </td>
 <td width="25%" valign="top">
@@ -151,7 +179,10 @@ Mood tracking, journaling, habit visualization and an AI-powered assistant.
 
 K-Means segmentation across **5 user groups** for personalized itinerary recommendations.
 
-`Django` `React` `Redux` `Machine Learning`
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square)
 
 </td>
 </tr>
@@ -165,6 +196,8 @@ K-Means segmentation across **5 user groups** for personalized itinerary recomme
 
 ## 💼 Experience
 
+![Experience](https://img.shields.io/badge/PROFESSIONAL_EXPERIENCE-2563EB?style=flat-square)
+
 ### 🔵 Infosys Springboard — Data Analytics & AI
 `Sep 2025 – Nov 2025 · Remote`
 
@@ -172,7 +205,7 @@ K-Means segmentation across **5 user groups** for personalized itinerary recomme
 - Architected **10+ RESTful APIs** integrating Scikit-learn NLP pipelines
 - Reduced environment setup time by ~**70%** with Docker
 
-### 🔵 Data Science Intern — MITS, Gwalior
+### 🟣 Data Science Intern — MITS, Gwalior
 `Dec 2024 – Jan 2025`
 
 - Accelerated reporting cycles by **35%** using predictive analytics pipelines
@@ -184,18 +217,20 @@ K-Means segmentation across **5 user groups** for personalized itinerary recomme
 
 ## 🎓 Education
 
+![Education](https://img.shields.io/badge/EDUCATION-0891B2?style=flat-square)
+
 ### 🔵 Madhav Institute of Technology and Science, Gwalior
 `Oct 2023 – May 2027`
 
 **B.Tech — Artificial Intelligence & Machine Learning**  
 CGPA: **7.53/10**
 
-### 🔵 Sanskar Public School, Gwalior
+### 🟢 Sanskar Public School, Gwalior
 `Apr 2022 – Jun 2023`
 
 CBSE Senior Secondary · **8.9/10**
 
-### 🔵 Gurukul Academy Public School, Datia
+### 🟠 Gurukul Academy Public School, Datia
 `Apr 2020 – Jun 2021`
 
 CBSE Secondary · **8.3/10**
@@ -211,6 +246,8 @@ CBSE Secondary · **8.3/10**
 <td width="55%" valign="top">
 
 ## 🏆 Achievements & Certifications
+
+![Achievements](https://img.shields.io/badge/ACHIEVEMENTS-D97706?style=flat-square&logo=trophy&logoColor=white)
 
 🏅 **Flipkart GRiD 6.0 Hackathon Semi-finalist**  
 Advanced through a pool of **5,17,000+ participants**.
@@ -230,6 +267,8 @@ Numeric Infosystem Pvt. Ltd.
 <td width="45%" valign="top">
 
 ## 🌱 Beyond Code
+
+![Beyond Code](https://img.shields.io/badge/BEYOND_CODE-16A34A?style=flat-square)
 
 > I enjoy exploring new technologies, solving real-world problems and building products that make a positive impact. Always curious, always learning.
 
@@ -256,10 +295,10 @@ BRIGHTER TOMORROW
 
 <div align="center">
 
-### Thanks for visiting! Let's build something amazing together. ❤️
+### ❤️ Thanks for visiting! Let's build something amazing together.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s)
 
 </div>
