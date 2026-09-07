@@ -30,22 +30,22 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning** student who enjoys t
 
 Instead of stopping at model training, I like working across the entire product lifecycle — **data processing, ML pipelines, APIs, frontend experiences and deployment.**
 
-- 🧠 Exploring **NLP, Computer Vision & Predictive Analytics**
+- 🧠 Exploring **NLP, Computer Vision & Data Analytics**
 - 🛠️ Building with **Python, React, Django, MongoDB & Docker**
 - 🚀 Interested in **AI/ML, Full-Stack & Software Engineering** opportunities
-- 🎯 I prefer projects that are **useful, measurable and deployable**
+- 🎯 Passionate about turning ML research into **real-world, user-facing products**
 
 </td>
 <td width="40%" valign="top">
 
-### 🏆 Quick Highlights
+### 🏆 Achievements
 
 🥇 **Flipkart GRiD 6.0** — Semi-finalist  
-🏅 **AIR 125** — NCAT 2026  
-💻 **550+** DSA problems solved  
-📊 **50K+** records analyzed  
-🧠 **10+** plant diseases classified  
-⚡ **10+** REST APIs built
+🌏 Advanced from **5,17,000+ participants** nationwide  
+🏅 **All India Rank 125** — NCAT 2026  
+💻 **350+ LeetCode problems** solved  
+🎓 **Principles of Generative AI & AI Primer** — Infosys Springboard  
+📜 **Certified C Programmer** — Numeric Infosystem Pvt. Ltd.
 
 </td>
 </tr>
@@ -72,10 +72,10 @@ Instead of stopping at model training, I like working across the entire product 
 
 <table>
 <tr>
-<td align="center"><b>🧠 AI / ML</b><br/>TensorFlow · PyTorch<br/>scikit-learn · OpenCV<br/>NLP · Pandas · NumPy</td>
-<td align="center"><b>🎨 Frontend</b><br/>React.js<br/>Redux Toolkit<br/>JavaScript · HTML · CSS</td>
-<td align="center"><b>⚙️ Backend</b><br/>Django<br/>Django REST Framework<br/>REST APIs</td>
-<td align="center"><b>🗄️ Data & Tools</b><br/>MongoDB · SQL<br/>Docker · Git<br/>GitHub · VS Code</td>
+<td align="center"><b>🧠 AI / ML</b><br/>TensorFlow · PyTorch<br/>scikit-learn · OpenCV<br/>NLP · LangChain</td>
+<td align="center"><b>📊 Data</b><br/>Pandas · NumPy<br/>Matplotlib<br/>Data Analytics</td>
+<td align="center"><b>🎨 Frontend</b><br/>React.js · Redux Toolkit<br/>JavaScript<br/>HTML · CSS</td>
+<td align="center"><b>⚙️ Backend & Tools</b><br/>Django · REST APIs<br/>MongoDB · SQL<br/>Docker · Git · GitHub</td>
 </tr>
 </table>
 
@@ -94,10 +94,10 @@ Instead of stopping at model training, I like working across the entire product 
 
 Transforms **PDF/DOCX documents** into useful insights through automated summarization and keyword extraction.
 
-🔹 Built **10+ Django REST APIs**  
-🔹 Dockerized the full application  
-🔹 Reduced manual document-review time by ~**60%**  
-🔹 Connected NLP workflows to a responsive React frontend
+🔹 Led the project end-to-end  
+🔹 Reduced manual review time by **60%**  
+🔹 Wired **8+ REST API endpoints**  
+🔹 Dockerized the complete platform
 
 **🛠 Stack**  
 `React` `Django` `MongoDB` `Docker` `NLP`
@@ -110,12 +110,12 @@ Transforms **PDF/DOCX documents** into useful insights through automated summari
 ### 🌿 Plant Disease Detector
 #### 👁️ Computer Vision Application
 
-Uses **TensorFlow + OpenCV** to identify plant diseases directly from leaf images.
+Uses **TensorFlow + OpenCV** to classify plant diseases from leaf images.
 
 🔹 Classifies **10+ plant diseases**  
 🔹 Achieved **92%+ validation accuracy**  
 🔹 Multilingual chatbot supporting **3+ languages**  
-🔹 Responsive full-stack web experience
+🔹 Responsive React.js interface
 
 **🛠 Stack**  
 `React` `Django` `TensorFlow` `OpenCV` `Docker`
@@ -130,12 +130,12 @@ Uses **TensorFlow + OpenCV** to identify plant diseases directly from leaf image
 ### 🧭 Student Compass
 #### 💜 AI-Powered Wellness Platform
 
-Brings **mood tracking, journaling, habit visualization and personalized insights** into one experience.
+A unified wellness platform for **mood tracking, journaling and habit visualization**.
 
+🔹 Built around **3 core wellness modules**  
 🔹 AI-powered conversational assistant  
-🔹 Personalized wellness recommendations  
-🔹 Real-time analytics dashboards  
-🔹 Full-stack React + Django architecture
+🔹 Personalized recommendation engine  
+🔹 Real-time analytics dashboards
 
 **🛠 Stack**  
 `React` `Django` `Docker` `Analytics` `AI`
@@ -145,28 +145,18 @@ Brings **mood tracking, journaling, habit visualization and personalized insight
 </td>
 <td width="50%" valign="top">
 
-### 🧩 How I Build
+### ✈️ Wanderlust Website
+#### 🗺️ Travel Recommendation Engine
 
-```text
-        💡 IDEA
-           │
-           ▼
-      🧠 ML / LOGIC
-           │
-           ▼
-        ⚙️ API
-           │
-           ▼
-       🎨 PRODUCT
-           │
-           ▼
-      🚀 DEPLOYMENT
-           │
-           ▼
-       👥 REAL USERS
-```
+A travel platform using machine learning to personalize itinerary recommendations.
 
-**My goal:** build AI systems that leave the notebook and become actual products.
+🔹 Applied **K-Means segmentation**  
+🔹 Profiled users into **5 distinct groups**  
+🔹 Optimized Redux Toolkit state handling  
+🔹 Improved frontend load speed by **30%**
+
+**🛠 Stack**  
+`Django` `React` `Redux` `Machine Learning`
 
 </td>
 </tr>
@@ -177,23 +167,26 @@ Brings **mood tracking, journaling, habit visualization and personalized insight
 ## 💼 `04.` Experience
 
 ### ⚡ Data Analytics & AI Intern — Infosys Springboard
+`Sep 2025 – Nov 2025 · Remote`
 
-> 📄 Worked on **PaperIQ**, an end-to-end NLP document intelligence application.
+> 📄 Led a team to engineer **PaperIQ**, an end-to-end NLP document intelligence application.
 
-🧠 Developed NLP processing workflows  
-⚙️ Built and integrated **10+ REST APIs**  
-🔗 Connected backend intelligence with the frontend experience  
-🐳 Worked on Docker-based packaging and deployment
+🧠 Built NLP summarization and keyword-extraction workflows  
+⚙️ Architected **10+ RESTful API endpoints** in Django  
+⚡ Reduced document-processing latency by **40%** compared with manual workflows  
+🐳 Reduced environment setup time by ~**70%** through Docker containerization
 
 <br/>
 
 ### 📊 Data Science Intern — MITS, Gwalior
+`Dec 2024 – Jan 2025`
 
-> 📈 Applied data analysis and visualization to predictive analytics workflows.
+> 📈 Worked on predictive analytics, data processing and visualization workflows.
 
-🗃️ Processed and analyzed **50,000+ records**  
-📉 Created visualizations to uncover patterns and trends  
-💡 Communicated analytical findings to project stakeholders
+🗃️ Cleaned and transformed **50,000+ records** using Pandas and NumPy  
+📉 Accelerated reporting cycles by **35%**  
+📊 Built interactive Matplotlib dashboards  
+🏅 Earned an **A grade** for technical implementation and project execution
 
 ---
 
@@ -203,7 +196,7 @@ Brings **mood tracking, journaling, habit visualization and personalized insight
 class Shikhar:
     role = "AI/ML + Full-Stack Developer"
 
-    focus = ["Machine Learning", "Software Engineering", "Product Development"]
+    focus = ["Machine Learning", "NLP", "Data Analytics", "Full-Stack Development"]
     languages = ["Python", "C++", "JavaScript"]
     builds = ["ML Pipelines", "REST APIs", "Full-Stack Products"]
 
