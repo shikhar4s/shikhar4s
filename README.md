@@ -113,7 +113,8 @@ PDF/DOCX summarization and keyword extraction platform.
 
 **60%** less manual review time · **8+ APIs**
 
-[View Project →](https://github.com/shikhar4s/paperiq)
+[![Repository](https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/paperiq)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://paperiq.vercel.app)
 
 </td><td width="25%" valign="top">
 
@@ -124,7 +125,7 @@ Classifies **10+ plant diseases** with **92%+ validation accuracy** and multilin
 
 `React` `Django` `OpenCV` `TensorFlow` `Docker`
 
-[View Project →](https://github.com/shikhar4s/plant_disease_detector)
+[![Repository](https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/plant_disease_detector)
 
 </td><td width="25%" valign="top">
 
@@ -135,7 +136,8 @@ Mood tracking, journaling, habit visualization and an AI-powered assistant.
 
 `React` `Django` `AI/ML` `Docker`
 
-[View Project →](https://github.com/shikhar4s/student_compass)
+[![Repository](https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/student_compass)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://student-compass-ai.onrender.com)
 
 </td><td width="25%" valign="top">
 
