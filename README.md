@@ -195,7 +195,7 @@ Advanced through a pool of **5,17,000+ participants**.
 
 🌏 **All India Rank 125 — NCAT 2026**
 
-💻 **350+ DSA problems on LeetCode**  
+💻 **550+ DSA problems on LeetCode**  
 Arrays · Trees · Graphs · Dynamic Programming
 
 🎓 **Principles of Generative AI & AI Primer** — Infosys Springboard
