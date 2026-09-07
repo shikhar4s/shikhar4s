@@ -1,134 +1,51 @@
 <div align="center">
 
-# SHIKHAR SHRIVASTAVA
+# 👋 Hi, I'm Shikhar Shrivastava
 
-### AI/ML Engineer · Full-Stack Developer · Problem Solver
+### 🤖 AI/ML Engineer · 💻 Full-Stack Developer · 🧩 Problem Solver
 
-*I build intelligent systems — from ML pipelines and APIs to polished, deployable products.*
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Explore_Projects-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
-[![GitHub](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s)
-
-</div>
-
----
-
-## `01.` About Me
-
-```text
-> B.Tech — Artificial Intelligence & Machine Learning
-> Building at the intersection of AI, software engineering and product development
-> Interested in AI/ML, full-stack and software engineering opportunities
-```
-
-I enjoy taking an idea all the way from **data and model development** to a usable product — designing ML pipelines, building Django REST APIs, creating responsive React interfaces, and shipping applications with Docker.
-
-- 🧠 Working across **NLP, Computer Vision, Predictive Analytics & Data Visualization**
-- ⚙️ Building with **Python, React, Django, MongoDB, SQL & Docker**
-- 🏆 **Flipkart GRiD 6.0 Semi-finalist** · **AIR 125 in NCAT 2026**
-- 💻 Solved **550+ DSA problems** on LeetCode
-- 🎯 Focused on building projects that are **useful, measurable and deployable**
-
----
-
-## `02.` Technical Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,django,tensorflow,pytorch,sklearn,mongodb,mysql,docker,git,github,vscode&perline=14" alt="Technology stack" />
-
-</div>
+**Building intelligent systems that go from `idea → model → API → product → deployment`.**
 
 <br/>
 
-| Domain | Stack |
-| :--- | :--- |
-| **AI / ML** | TensorFlow · PyTorch · scikit-learn · OpenCV · NLP · Pandas · NumPy |
-| **Frontend** | React.js · Redux Toolkit · JavaScript · HTML · CSS |
-| **Backend** | Django · Django REST Framework · REST APIs |
-| **Data** | MongoDB · SQL · Microsoft SQL Server |
-| **Dev Tools** | Docker · Git · GitHub · VS Code |
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Explore_Projects-111827?style=for-the-badge)](https://shikhar4s.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s)
+
+<br/>
+
+`🧠 Machine Learning` · `👁️ Computer Vision` · `💬 NLP` · `⚙️ Backend Engineering` · `🎨 Frontend` · `🚀 Deployment`
+
+</div>
 
 ---
 
-## `03.` Projects — Systems I Built
+## 👨‍💻 `01.` About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 📄 PaperIQ
-**NLP Document Intelligence Platform**
+I'm a **B.Tech Artificial Intelligence & Machine Learning** student who enjoys turning technical ideas into complete, usable software.
 
-Turns PDF/DOCX files into useful insights through document summarization and keyword extraction.
+Instead of stopping at model training, I like working across the entire product lifecycle — **data processing, ML pipelines, APIs, frontend experiences and deployment.**
 
-**Impact**
-- Built **10+ Django REST APIs**
-- Dockerized the complete application
-- Reduced manual document-review time by ~**60%** during project evaluation
-
-`React` `Django` `MongoDB` `Docker` `NLP`
-
-[**View Repository →**](https://github.com/shikhar4s/paperiq)
+- 🧠 Exploring **NLP, Computer Vision & Predictive Analytics**
+- 🛠️ Building with **Python, React, Django, MongoDB & Docker**
+- 🚀 Interested in **AI/ML, Full-Stack & Software Engineering** opportunities
+- 🎯 I prefer projects that are **useful, measurable and deployable**
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### 🌿 Plant Disease Detector
-**Computer Vision Web Application**
+### 🏆 Quick Highlights
 
-Detects plant diseases from leaf images using a TensorFlow + OpenCV computer-vision pipeline.
-
-**Impact**
-- Classifies **10+ plant diseases**
-- Achieved **92%+ validation accuracy**
-- Added multilingual chatbot support for **3+ languages**
-
-`React` `Django` `TensorFlow` `OpenCV` `Docker`
-
-[**View Repository →**](https://github.com/shikhar4s/plant_disease_detector)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 Student Compass
-**Student Wellness Platform**
-
-A unified platform for mood tracking, private journaling, habit visualization and personalized wellness insights.
-
-**Built with**
-- AI-powered conversational assistant
-- Personalized recommendations
-- Real-time analytics dashboards
-- Full-stack React + Django architecture
-
-`React` `Django` `Docker` `Analytics`
-
-[**View Repository →**](https://github.com/shikhar4s/student_compass)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 What I Like Building
-
-```text
-AI systems that leave the notebook.
-
-Model
-  ↓
-API
-  ↓
-Product
-  ↓
-Deployment
-  ↓
-Real users
-```
-
-My projects usually combine **machine learning + backend engineering + frontend UX + deployment** instead of stopping at model training.
+🥇 **Flipkart GRiD 6.0** — Semi-finalist  
+🏅 **AIR 125** — NCAT 2026  
+💻 **550+** DSA problems solved  
+📊 **50K+** records analyzed  
+🧠 **10+** plant diseases classified  
+⚡ **10+** REST APIs built
 
 </td>
 </tr>
@@ -136,46 +53,182 @@ My projects usually combine **machine learning + backend engineering + frontend 
 
 ---
 
-## `04.` Experience
+## 🧰 `02.` Technical Arsenal
 
-### ⚡ Data Analytics & AI Intern — Infosys Springboard
+<div align="center">
 
-> Worked on PaperIQ as an end-to-end document intelligence application.
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Languages" />
 
-- Developed NLP processing workflows and **10+ REST APIs**
-- Integrated backend intelligence with the frontend experience
-- Worked on Docker-based packaging and deployment
+### 🤖 AI · ML · Data
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI ML stack" />
 
-### 📊 Data Science Intern — MITS, Gwalior
+### ⚙️ Full-Stack · Database · DevOps
+<img src="https://skillicons.dev/icons?i=react,django,mongodb,mysql,docker,git,github,vscode&theme=dark" alt="Full stack and tools" />
 
-> Applied data analysis and visualization to predictive analytics workflows.
+</div>
 
-- Processed and analyzed **50,000+ records**
-- Built visualizations to communicate findings to project stakeholders
+<br/>
+
+<table>
+<tr>
+<td align="center"><b>🧠 AI / ML</b><br/>TensorFlow · PyTorch<br/>scikit-learn · OpenCV<br/>NLP · Pandas · NumPy</td>
+<td align="center"><b>🎨 Frontend</b><br/>React.js<br/>Redux Toolkit<br/>JavaScript · HTML · CSS</td>
+<td align="center"><b>⚙️ Backend</b><br/>Django<br/>Django REST Framework<br/>REST APIs</td>
+<td align="center"><b>🗄️ Data & Tools</b><br/>MongoDB · SQL<br/>Docker · Git<br/>GitHub · VS Code</td>
+</tr>
+</table>
 
 ---
 
-## `05.` Engineering Mindset
+## 🚀 `03.` Featured Projects
+
+> ### Every project is a system I built — not just a repository I created.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 PaperIQ
+#### 🧠 NLP Document Intelligence
+
+Transforms **PDF/DOCX documents** into useful insights through automated summarization and keyword extraction.
+
+🔹 Built **10+ Django REST APIs**  
+🔹 Dockerized the full application  
+🔹 Reduced manual document-review time by ~**60%**  
+🔹 Connected NLP workflows to a responsive React frontend
+
+**🛠 Stack**  
+`React` `Django` `MongoDB` `Docker` `NLP`
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/shikhar4s/paperiq)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 Plant Disease Detector
+#### 👁️ Computer Vision Application
+
+Uses **TensorFlow + OpenCV** to identify plant diseases directly from leaf images.
+
+🔹 Classifies **10+ plant diseases**  
+🔹 Achieved **92%+ validation accuracy**  
+🔹 Multilingual chatbot supporting **3+ languages**  
+🔹 Responsive full-stack web experience
+
+**🛠 Stack**  
+`React` `Django` `TensorFlow` `OpenCV` `Docker`
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/shikhar4s/plant_disease_detector)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 Student Compass
+#### 💜 AI-Powered Wellness Platform
+
+Brings **mood tracking, journaling, habit visualization and personalized insights** into one experience.
+
+🔹 AI-powered conversational assistant  
+🔹 Personalized wellness recommendations  
+🔹 Real-time analytics dashboards  
+🔹 Full-stack React + Django architecture
+
+**🛠 Stack**  
+`React` `Django` `Docker` `Analytics` `AI`
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/shikhar4s/student_compass)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 How I Build
+
+```text
+        💡 IDEA
+           │
+           ▼
+      🧠 ML / LOGIC
+           │
+           ▼
+        ⚙️ API
+           │
+           ▼
+       🎨 PRODUCT
+           │
+           ▼
+      🚀 DEPLOYMENT
+           │
+           ▼
+       👥 REAL USERS
+```
+
+**My goal:** build AI systems that leave the notebook and become actual products.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 `04.` Experience
+
+### ⚡ Data Analytics & AI Intern — Infosys Springboard
+
+> 📄 Worked on **PaperIQ**, an end-to-end NLP document intelligence application.
+
+🧠 Developed NLP processing workflows  
+⚙️ Built and integrated **10+ REST APIs**  
+🔗 Connected backend intelligence with the frontend experience  
+🐳 Worked on Docker-based packaging and deployment
+
+<br/>
+
+### 📊 Data Science Intern — MITS, Gwalior
+
+> 📈 Applied data analysis and visualization to predictive analytics workflows.
+
+🗃️ Processed and analyzed **50,000+ records**  
+📉 Created visualizations to uncover patterns and trends  
+💡 Communicated analytical findings to project stakeholders
+
+---
+
+## 🧠 `05.` Engineering Mindset
 
 ```python
 class Shikhar:
-    focus = ["AI/ML", "Full-Stack", "Software Engineering"]
+    role = "AI/ML + Full-Stack Developer"
+
+    focus = ["Machine Learning", "Software Engineering", "Product Development"]
     languages = ["Python", "C++", "JavaScript"]
-    builds = ["ML Pipelines", "REST APIs", "Web Products"]
+    builds = ["ML Pipelines", "REST APIs", "Full-Stack Products"]
 
     def philosophy(self):
-        return "Build it. Measure it. Improve it. Ship it."
+        return "Build → Measure → Improve → Ship 🚀"
 ```
 
 ---
 
+## 🤝 `06.` Let's Connect
+
 <div align="center">
 
-### Let's build something useful.
+### 💡 Have an interesting AI, ML or software idea?
 
-**AI ideas are most interesting when they become products people can actually use.**
+**I'm always interested in building things that solve real problems.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-shrivastava-46b998235/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://shikhar4s.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s)
+
+<br/>
+
+### ⚡ `Code. Learn. Build. Ship. Repeat.`
 
 </div>
