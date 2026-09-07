@@ -137,7 +137,7 @@ Mood tracking, journaling, habit visualization and an AI-powered assistant.
 `React` `Django` `AI/ML` `Docker`
 
 [![Repository](https://img.shields.io/badge/REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shikhar4s/student_compass)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://student-compass-ai.onrender.com)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://student-compass-kohl.vercel.app/)
 
 </td><td width="25%" valign="top">
 
